@@ -1,1 +1,4 @@
 The project specifics are confidential due to UBS company policy, but essentially this application is an idea I pitched to management and we will be developing a prototype this month to see if we can get traction as far as further development. The idea is meant to solve an issue that we have been having when adding new team members to different teams throughout all of UBS. This issue is that we hve no current single portal for finding what access you need to do your specific role. Teams usually all have the same entitlements and access, so the plan is to use web scraping to automate finding and compiling the access across all team members to share with the new member, which will speed up productivity and allow teams to add people more effectively. 
+
+
+I am not allowed to include a real screenshot of the prototype, but I have created a rough wireframe on Figma for my thumbnail on my portfolio site.
